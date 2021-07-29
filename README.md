@@ -4,7 +4,7 @@ _Chemical engineer passionate about coding based in Monterrey, México_
 
 [Email](mailto:edgar.cantuco@outlook.com) / [LinkedIn](https://www.linkedin.com/in/edgar-alejandro-cantú-costilla-12b23a210/)
 
-## Education
+## 📖 Education
 
 **Chemical Engineering** @ Facultad de Ciencias Químicas, Universidad Autónoma de Nuevo León.<br>
 _(Ago 2016 - Jun 2021)_
@@ -12,7 +12,7 @@ _(Ago 2016 - Jun 2021)_
 **Bilingual progressive high school** @ Preparatoria No. 2, Universidad Autónoma de Nuevo León.<br>
 _(Ago 2014 - Jun 2016)_
 
-## Experience
+## 💼 Experience
 
 **Social service provision** @ Facultad de Ciencias Químicas, Universidad Autónoma de Nuevo León.<br>
 _(Dic 2019 - May 2020)_
@@ -37,7 +37,7 @@ _(Jun 2020 - Mar 2020)_
  - Help building [AIChE at UANL website](https://aicheatuanl.com.mx).<br>
  - Prepare livestreams of different activities.
 
-## Projects
+## 💻 Projects
 
 - **Equilibrium diagram plotter for binary mixtures** in Matlab.
 - **Stoichiometric reactor simulator** in Visual Basic for Applications (Excel).
@@ -46,7 +46,7 @@ _(Jun 2020 - Mar 2020)_
 - **Application to handle the database of AIChE at UANL's members and AIChE Points** in Power Apps
 - **Modular simulator for chemical engineering students** in Python
 
-## Languages
+## 💬 Languages
 
 - **Spanish:** Native
 - **English:** Intermediate-Advanced
@@ -59,3 +59,8 @@ _(Jun 2020 - Mar 2020)_
 - **Python:** Intermediate
 - **Power apps:** Basic-Intermediate
 - **Arduino:** Basic-Intermediate
+- 
+## 🥇 Accomplishments
+
+**Second best ninth semester's grades**
+_(Jan 2021)_
