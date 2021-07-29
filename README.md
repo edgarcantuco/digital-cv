@@ -44,3 +44,18 @@ _(Jun 2020 - Mar 2020)_
 - **Graph's digitizer** in Visual Basic .NET.
 - **Software used in the trainings of the AIChE at UANL's Jeopardy team using an Arduino UNO to connect buttons** in Visual Basic .NET.
 - **Application to handle the database of AIChE at UANL's members and AIChE Points** in Power Apps
+- **Modular simulator for chemical engineering students** in Python
+
+## Languages
+
+- **Spanish:** Native
+- **English:** Intermediate-Advanced
+
+## Competences
+
+- **Microsoft office:** Advanced
+- **Visual Basic .NET:** Advanced
+- **Visual Basic for Applications:** Advanced
+- **Python:** Intermediate
+- **Power apps:** Basic-Intermediate
+- **Arduino:** Basic-Intermediate
