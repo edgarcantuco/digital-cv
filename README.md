@@ -16,4 +16,4 @@ _(Ago 2014 - Jun 2016)_
 
 **Social service provision** Facultad de Ciencias Químicas, Universidad Autónoma de Nuevo León.<br>
 _(Dic 2019 - May 2020)_
-  - Software development to solve problems related to chemical engineering along with Dr. José Ángel Loredo Medrano
+  - Software development to solve problems related to chemical engineering along with Dr. José Ángel Loredo Medrano.
