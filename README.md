@@ -30,6 +30,7 @@ _(Feb 2015 - May 2016)_
 **Projects coordinator** @ [AIChE at UANL](https://www.facebook.com/AIChE.UANL).<br>
 _(Apr 2020 - Jun 2020)_
  - Development of software to ease asignatures of the team.
+ - Impart a Visual Basic for Applications course.
 
 **Digital execution coordinator** @ [AIChE at UANL](https://www.facebook.com/AIChE.UANL).<br>
 _(Jun 2020 - Mar 2020)_
@@ -37,3 +38,9 @@ _(Jun 2020 - Mar 2020)_
  - Prepare livestreams of different activities.
 
 ## Projects
+
+- **Equilibrium diagram plotter for binary mixtures** in Matlab.
+- **Stoichiometric reactor simulator** in Visual Basic for Applications (Excel).
+- **Graph's digitizer** in Visual Basic .NET.
+- **Software used in the trainings of the AIChE at UANL's Jeopardy team using an Arduino UNO to connect buttons** in Visual Basic .NET.
+- **Application to handle the database of AIChE at UANL's members and AIChE Points** in Power Apps
