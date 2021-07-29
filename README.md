@@ -8,3 +8,5 @@ _Chemical engineer passionate about coding based in Monterrey, México_
 
 - Chemical Engineering. _Facultad de Ciencias Químicas, Universidad Autónoma de Nuevo León._ 
 - Bilingual progressive high school. _Preparatoria No. 2, Universidad Autónoma de Nuevo León._
+- Social service provision. _Facultad de Ciencias Químicas, Universidad Autónoma de Nuevo León._
+  - Software development to solve problems related to chemical engineering along with Dr. José Ángel Loredo Medrano
