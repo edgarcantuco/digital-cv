@@ -51,7 +51,7 @@ _(Jun 2020 - Mar 2020)_
 - **Spanish:** Native
 - **English:** Intermediate-Advanced
 
-## Competences
+## 🎯 Competences
 
 - **Microsoft office:** Advanced
 - **Visual Basic .NET:** Advanced
