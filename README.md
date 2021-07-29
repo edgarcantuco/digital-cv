@@ -59,7 +59,7 @@ _(Jun 2020 - Mar 2020)_
 - **Python:** Intermediate
 - **Power apps:** Basic-Intermediate
 - **Arduino:** Basic-Intermediate
-- 
+
 ## 🥇 Accomplishments
 
 **Second best ninth semester's grades**
