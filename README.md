@@ -39,12 +39,12 @@ _(Jun 2020 - Mar 2020)_
 
 ## 💻 Projects
 
-- **Equilibrium diagram plotter for binary mixtures** in Matlab.
-- **Stoichiometric reactor simulator** in Visual Basic for Applications (Excel).
-- **Graph's digitizer** in Visual Basic .NET.
-- **Software used in the trainings of the AIChE at UANL's Jeopardy team using an Arduino UNO to connect buttons** in Visual Basic .NET.
-- **Application to handle the database of AIChE at UANL's members and AIChE Points** in Power Apps.
-- **Modular simulator for chemical engineering students** in Python.
+**Equilibrium diagram plotter for binary mixtures** in Matlab.<br>
+**Stoichiometric reactor simulator** in Visual Basic for Applications (Excel).<br>
+**Graph's digitizer** in Visual Basic .NET.<br>
+**Software used in the trainings of the AIChE at UANL's Jeopardy team using an Arduino UNO to connect buttons** in Visual Basic .NET.<br>
+**Application to handle the database of AIChE at UANL's members and AIChE Points** in Power Apps.<br>
+**Modular simulator for chemical engineering students** in Python.<br>
 
 ## 💬 Languages
 
