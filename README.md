@@ -43,7 +43,7 @@ _(Jun 2020 - Mar 2020)_
 - **Graph's digitizer** in Visual Basic .NET.<br>
 - **Software used in the trainings of the AIChE at UANL's Jeopardy team using an Arduino UNO to connect buttons** in Visual Basic .NET.<br>
 - **Application to handle the database of AIChE at UANL's members and AIChE Points** in Power Apps.<br>
-- **Modular simulator for chemical engineering students** in Python.<br>
+- [Modular simulator for chemical engineering students](https://github.com/edgarcantuco/Modusim) in Python.<br>
 
 ## 💬 Languages
 
