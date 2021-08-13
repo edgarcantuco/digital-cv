@@ -56,7 +56,7 @@ _(Jun 2020 - Mar 2020)_
 - **Microsoft office:** Advanced
 - **Visual Basic .NET:** Advanced
 - **Visual Basic for Applications:** Advanced
-- **Python:** Intermediate
+- **Python:** Advanced
 - **Power apps:** Basic-Intermediate
 - **Arduino:** Basic-Intermediate
 
