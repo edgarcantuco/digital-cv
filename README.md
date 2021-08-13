@@ -53,10 +53,10 @@ _(Jun 2020 - Mar 2020)_
 
 ## 🎯 Competences
 
-- **Microsoft office:** Advanced
 - **Visual Basic .NET:** Advanced
-- **Visual Basic for Applications:** Advanced
 - **Python:** Advanced
+- **Visual Basic for Applications:** Advanced
+- **Microsoft office:** Advanced
 - **Power apps:** Basic-Intermediate
 - **Arduino:** Basic-Intermediate
 
