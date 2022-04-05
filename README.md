@@ -36,7 +36,7 @@ _(Jun 2020 - Mar 2020)_
  - Help building [AIChE at UANL website](https://aicheatuanl.com.mx).<br>
  - Prepare livestreams of different activities.
 
-**Creator and Lead Developer of Breath of the Wild Multiplayer Mod.** <br>
+**Creator and Lead Developer of Breath of the Wild Multiplayer Mod.** [Youtube](https://www.youtube.com/watch?v=fxoHEsv1JL4&)<br>
 _(Oct 2021 - To date)_
  - Leader of a global multidisciplinary team working on a modification of videogame The Legend of Zelda: Breath of the Wild to make it an online multiplayer experience.
 
