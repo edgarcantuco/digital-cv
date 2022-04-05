@@ -7,19 +7,19 @@ _Chemical engineer passionate about coding based in Monterrey, México_
 ## 📖 Education
 
 **Chemical Engineering** @ Facultad de Ciencias Químicas, Universidad Autónoma de Nuevo León.<br>
-_(Ago 2016 - Jun 2021)_
+_(Aug 2016 - Jun 2021)_
  
 **Bilingual progressive high school** @ Preparatoria No. 2, Universidad Autónoma de Nuevo León.<br>
-_(Ago 2014 - Jun 2016)_
+_(Aug 2014 - Jun 2016)_
 
 ## 💼 Experience
 
 **Social service provision** @ Facultad de Ciencias Químicas, Universidad Autónoma de Nuevo León.<br>
-_(Dic 2019 - May 2020)_
+_(Dec 2019 - May 2020)_
   - Software development to solve problems related to chemical engineering along with Dr. José Ángel Loredo Medrano.
 
 **Research stay** @ Facultad de Ciencias Químicas, Universidad Autónoma de Nuevo León.<br>
-_(Dic 2020 - Jun 2021)_
+_(Dec 2020 - Jun 2021)_
  - Application of model predictive control in dividing wall columns with Dr. Salvador Tututi Ávila.
 
 **Participation in the project "Escribe tus libros de texto"** @ Preparatoria No. 2, Universidad Autónoma de Nuevo León. <br>
@@ -35,6 +35,10 @@ _(Apr 2020 - Jun 2020)_
 _(Jun 2020 - Mar 2020)_
  - Help building [AIChE at UANL website](https://aicheatuanl.com.mx).<br>
  - Prepare livestreams of different activities.
+
+**Creator and Lead Developer of Breath of the Wild Multiplayer Mod.** <br>
+_(Oct 2021 - To date)_
+ - Leader of a global multidisciplinary team working on a modification of videogame The Legend of Zelda: Breath of the Wild to make it an online multiplayer experience.
 
 ## 💻 Projects
 
@@ -52,10 +56,12 @@ _(Jun 2020 - Mar 2020)_
 
 ## 🎯 Competences
 
-- **Visual Basic .NET:** Advanced
+- **C#:** Advanced 
 - **Python:** Advanced
+- **Visual Basic .NET:** Advanced
 - **Visual Basic for Applications:** Advanced
 - **Microsoft office:** Advanced
+- **C++:** Intermediate
 - **Power apps:** Basic-Intermediate
 - **Arduino:** Basic-Intermediate
 
